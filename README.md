@@ -1,1 +1,1 @@
-# Autonomous-Solar-Tracker
+# Autonomiczny Tracker Solarny
